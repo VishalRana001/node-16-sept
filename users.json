@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Hugo",
+        "last_name": "Norvel",
+        "email": "hnorvel0@baidu.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 2,
+        "first_name": "Silvia",
+        "last_name": "Oslar",
+        "email": "soslar1@marriott.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Trever",
+        "last_name": "Mitcham",
+        "email": "tmitcham2@squidoo.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Aleksandr",
+        "last_name": "Rabbitts",
+        "email": "arabbitts3@gravatar.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Thebault",
+        "last_name": "Richt",
+        "email": "tricht4@chronoengine.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Orbadiah",
+        "last_name": "Kiwitz",
+        "email": "okiwitz5@drupal.org",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 7,
+        "first_name": "Meredith",
+        "last_name": "Podmore",
+        "email": "mpodmore6@about.me",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Hedwiga",
+        "last_name": "Meuse",
+        "email": "hmeuse7@zdnet.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Allyson",
+        "last_name": "Palmar",
+        "email": "apalmar8@shareasale.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Dario",
+        "last_name": "De Ath",
+        "email": "ddeath9@wiley.com",
+        "gender": "Male"
+    }
+]
